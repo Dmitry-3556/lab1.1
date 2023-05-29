@@ -1,7 +1,7 @@
 # lab1.1
-Липчанский Дмитрий, ИТС-б-о-22-1, Основы кроссплатформенного программирования.
+Lipchanskiy Dmitry, ITS-bo-22-1, Osnovi krossplatformennogo programmirovaniya.
 
-Программа:
+Programm:
 # include <stdio.h>
 # include <math.h> 
 #include <conio.h>
