@@ -19,4 +19,11 @@ printf("Write x: ");
 	scanf_s("%d", &n);
 for (i = 2; i <= n; i++)
 	{
+k = (i+1);
+		for (f = 1; f <= i; f++)
+		{
+			k *= f;
+		}
+		sum += (pow((e), x) - i) / k;
+		printf("sum=%f\n", sum);
 
