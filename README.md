@@ -6,4 +6,6 @@
 # include <math.h> 
 #include <conio.h>
 #include <locale.h>
+int main()
+{
 
